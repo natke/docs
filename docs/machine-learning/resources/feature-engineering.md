@@ -18,5 +18,3 @@ There are multiple ways that your data might need be engineered into features:
 * drop data columns that do not contain information relevant to the model
 
 All feature engineering in ML.NET is performed using transforms. Transforms can be chained together to perform multiple feature engineering operations. This article describes which transforms to use for the different feature engineering operations.
-
-
